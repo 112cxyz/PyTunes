@@ -1,7 +1,9 @@
 # PyTunes
 Not a Knockoff iTunes in Python 
 
-only works on unix based systems and requires playsound!
+only works on unix based systems without extra code modifications
+
+requires playsound!
 
 intended layout:
 ~/PyTunes/main.py
