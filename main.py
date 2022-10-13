@@ -53,7 +53,7 @@ def musicmenu():
     try:
       clear()
       pyinfo()
-      ptplr.playsong(songid-1,True)
+      ptplr.playsong(songid-1)
     except:
       print("Something went wrong try again.")
       time.sleep(3)
